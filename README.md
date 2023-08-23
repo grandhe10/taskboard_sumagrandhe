@@ -1,7 +1,7 @@
 # taskboard_sumagrandhe
 Taskboard authored by manager to assign tasks to users and also view tasks based on specific filters/conditions
 
-#Assumptions
+**#Assumptions**
 Only a User with Manager role will be able to add/modify/delete users
 Only a User with Manager role can add tasks to the taskboard
 When a task/user is newly added then the status of them is by default Active else specified
